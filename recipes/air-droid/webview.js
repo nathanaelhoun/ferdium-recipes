@@ -11,4 +11,6 @@ module.exports = (Ferdium) => {
   }
 
   Ferdium.loop(getMessages);
+
+  console.debug("TODO remove - this is a test")
 };
